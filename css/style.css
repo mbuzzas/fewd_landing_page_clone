@@ -90,3 +90,26 @@ button:hover {
 	cursor: pointer;
 	background-color: #C74A22;
 }
+
+.cases {
+	background-color: #fff;
+	overflow: hidden;
+	padding-bottom: 5rem;
+	height: 1050px;
+	height: 445px;
+}
+
+.cases .content {
+	color: #1d1e21;
+	text-align: center;
+}
+
+.cases h2 {
+	font-size: 2.75rem;
+	margin: 1.625rem 0 3.125rem;
+	font-weight: 300;
+}
+
+.cases .devices li {
+	display: inline-block;
+}
