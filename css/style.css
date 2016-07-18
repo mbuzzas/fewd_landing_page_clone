@@ -1,13 +1,7 @@
-body {
-	background-color: LightGray;
-}
-
-div {
-	border: 1px solid Chocolate;
-}
-
 .top-navigation {
+	/* layout */
 	background-color: #fff;
+	top: 0;
 	position: fixed;
 	width: 100%;
 	border-bottom: 1px solid #DDD;
@@ -55,6 +49,7 @@ div {
 	background-size: cover;
 	height: 45.938rem;
 	text-align: center;
+	padding-top:15px;
 }
 
 .introduction h1 {
@@ -141,6 +136,11 @@ h3 {
 	overflow: auto;
 	padding-bottom: 9.375rem;
 	text-align: center;
+}
+
+.social .content {
+	margin-left: 90.5px;
+	margin-right: 
 }
 
 h5 {
